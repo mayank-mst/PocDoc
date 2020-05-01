@@ -5,7 +5,8 @@ A Health Care Android Application is intended to act like a personnel doctor by 
 ## FEATURES
 
 <img src="https://user-images.githubusercontent.com/32200474/80802599-622e9d00-8bcd-11ea-9637-bc04527aca55.png" width="30" height="30">Virtual Medical Assistant.
-<img src="https://user-images.githubusercontent.com/32200474/80803403-cc484180-8bcf-11ea-984a-9ba885a328a1.jpeg" width="250" height="400"><img src="https://user-images.githubusercontent.com/32200474/80803413-d36f4f80-8bcf-11ea-820b-b8a439e3075a.png" width="250" height="400">
+
+<img src="https://user-images.githubusercontent.com/32200474/80803403-cc484180-8bcf-11ea-984a-9ba885a328a1.jpeg" width="250" height="400">  <img src="https://user-images.githubusercontent.com/32200474/80803413-d36f4f80-8bcf-11ea-820b-b8a439e3075a.png" width="250" height="400">
 
 <img src="https://user-images.githubusercontent.com/32200474/80802605-6b1f6e80-8bcd-11ea-84f2-21c843eb0ec6.png" width="30" height="30">Hospital Finder.
 
