@@ -6,7 +6,7 @@ A Health Care Android Application is intended to act like a personnel doctor by 
 
 <img src="https://user-images.githubusercontent.com/32200474/80802599-622e9d00-8bcd-11ea-9637-bc04527aca55.png" width="30" height="30">Virtual Medical Assistant.
 
-<img src="https://user-images.githubusercontent.com/32200474/80803403-cc484180-8bcf-11ea-984a-9ba885a328a1.jpeg" width="250" height="400">  <img src="https://user-images.githubusercontent.com/32200474/80803413-d36f4f80-8bcf-11ea-820b-b8a439e3075a.png" width="250" height="400">
+<img src="https://user-images.githubusercontent.com/32200474/80804164-fb5fb280-8bd1-11ea-8715-98aed66fb3c7.jpeg" width="250" height="400">  <img src="https://user-images.githubusercontent.com/32200474/80803403-cc484180-8bcf-11ea-984a-9ba885a328a1.jpeg" width="250" height="400">  <img src="https://user-images.githubusercontent.com/32200474/80803413-d36f4f80-8bcf-11ea-820b-b8a439e3075a.png" width="250" height="400">
 
 <img src="https://user-images.githubusercontent.com/32200474/80802605-6b1f6e80-8bcd-11ea-84f2-21c843eb0ec6.png" width="30" height="30">Hospital Finder.
 
@@ -19,7 +19,7 @@ A Health Care Android Application is intended to act like a personnel doctor by 
 
 <img src="https://user-images.githubusercontent.com/32200474/80803510-1e896280-8bd0-11ea-8567-cdd89fd781ac.png" width="250" height="400">
 
-<img src="https://user-images.githubusercontent.com/32200474/80804164-fb5fb280-8bd1-11ea-8715-98aed66fb3c7.jpeg" width="250" height="400">
+
 <img src="https://user-images.githubusercontent.com/32200474/80804182-04e91a80-8bd2-11ea-897f-716ed9901e80.png" width="250" height="400">
 <img src="https://user-images.githubusercontent.com/32200474/80804193-0ca8bf00-8bd2-11ea-84e8-0b70870df28e.png" width="250" height="400">
 <img src="https://user-images.githubusercontent.com/32200474/80804225-20542580-8bd2-11ea-9643-318017f4e9df.jpeg" width="250" height="400">
