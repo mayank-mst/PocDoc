@@ -14,7 +14,7 @@ A Health Care Android Application is intended to act like a personnel doctor by 
 
 <img src="https://user-images.githubusercontent.com/32200474/80802628-7a062100-8bcd-11ea-9566-5ecd4bec0424.png" width="30" height="30">Immediate Medical Assistantance and ambulance service.
 
-<img src="https://user-images.githubusercontent.com/32200474/80803403-cc484180-8bcf-11ea-984a-9ba885a328a1.jpeg" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/32200474/80803403-cc484180-8bcf-11ea-984a-9ba885a328a1.jpeg" width="250" height="400">
 <img src="https://user-images.githubusercontent.com/32200474/80803413-d36f4f80-8bcf-11ea-820b-b8a439e3075a.png" width="300" height="400">
 <img src="https://user-images.githubusercontent.com/32200474/80803510-1e896280-8bd0-11ea-8567-cdd89fd781ac.png" width="30" height="30">
 <img src="https://user-images.githubusercontent.com/32200474/80803512-20ebbc80-8bd0-11ea-94ae-9e2156cbcd78.png)" width="30" height="30">
