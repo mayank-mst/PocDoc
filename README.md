@@ -10,6 +10,9 @@ A Health Care Android Application is intended to act like a personnel doctor by 
 
 <img src="https://user-images.githubusercontent.com/32200474/80802605-6b1f6e80-8bcd-11ea-84f2-21c843eb0ec6.png" width="30" height="30">Hospital Finder.
 
+<img src="https://user-images.githubusercontent.com/32200474/80804548-20085a00-8bd3-11ea-8a69-511bb5452113.png" width="250" height="400">
+
+
 <img src="https://user-images.githubusercontent.com/32200474/80802613-707cb900-8bcd-11ea-99c9-1e415bc1b858.png" width="30" height="30">Disease Predictor from blood test samples.
 
 <img src="https://user-images.githubusercontent.com/32200474/80803510-1e896280-8bd0-11ea-8567-cdd89fd781ac.png" width="250" height="400">  <img src="https://user-images.githubusercontent.com/32200474/80804193-0ca8bf00-8bd2-11ea-84e8-0b70870df28e.png" width="250" height="400">
