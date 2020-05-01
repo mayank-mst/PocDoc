@@ -14,11 +14,11 @@ A Health Care Android Application is intended to act like a personnel doctor by 
 
 <img src="https://user-images.githubusercontent.com/32200474/80802628-7a062100-8bcd-11ea-9566-5ecd4bec0424.png" width="30" height="30">Immediate Medical Assistantance and ambulance service.
 
-![chatbot](https://user-images.githubusercontent.com/32200474/80803403-cc484180-8bcf-11ea-984a-9ba885a328a1.jpeg)
-![Screenshot_2020-05-01-17-13-19-33](https://user-images.githubusercontent.com/32200474/80803413-d36f4f80-8bcf-11ea-820b-b8a439e3075a.png)
-![Screenshot_2020-05-01-17-14-13-50](https://user-images.githubusercontent.com/32200474/80803510-1e896280-8bd0-11ea-8567-cdd89fd781ac.png)
-![Screenshot_2020-05-01-17-14-27-41](https://user-images.githubusercontent.com/32200474/80803512-20ebbc80-8bd0-11ea-94ae-9e2156cbcd78.png)
-![Screenshot_2020-05-01-17-14-58-90](https://user-images.githubusercontent.com/32200474/80803527-28ab6100-8bd0-11ea-8aef-9f5595f0f591.png)
-![video_call_caling](https://user-images.githubusercontent.com/32200474/80803536-352fb980-8bd0-11ea-9428-1a478c370682.jpeg)
-![video_call](https://user-images.githubusercontent.com/32200474/80803542-382aaa00-8bd0-11ea-89b6-82c9e235396a.jpeg)
-![Screenshot_2020-05-01-17-20-30-23_b170d526b848052a88e38fcb4c71d925](https://user-images.githubusercontent.com/32200474/80803595-64462b00-8bd0-11ea-977e-361a81bb2f4a.png)
+<img src="https://user-images.githubusercontent.com/32200474/80803403-cc484180-8bcf-11ea-984a-9ba885a328a1.jpeg" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/32200474/80803413-d36f4f80-8bcf-11ea-820b-b8a439e3075a.png" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/32200474/80803510-1e896280-8bd0-11ea-8567-cdd89fd781ac.png" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/32200474/80803512-20ebbc80-8bd0-11ea-94ae-9e2156cbcd78.png)" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/32200474/80803527-28ab6100-8bd0-11ea-8aef-9f5595f0f591.png)" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/32200474/80803536-352fb980-8bd0-11ea-9428-1a478c370682.jpeg)" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/32200474/80803542-382aaa00-8bd0-11ea-89b6-82c9e235396a.jpeg)" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/32200474/80803595-64462b00-8bd0-11ea-977e-361a81bb2f4a.png)" width="30" height="30">
