@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/PocDocBG"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <View
+
+            android:layout_gravity="center"
+            android:layout_height="30dp"
+            android:layout_width="wrap_content" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="25dp"
+            android:textAlignment="center"
+            android:layout_gravity="center">
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:fontFamily="@font/javatext"
+                android:textColor="@color/PocDocIcon"
+                android:text="RBC:"></TextView>
+
+            <EditText
+                android:id="@+id/rbc"
+                android:textSize="18sp"
+                android:fontFamily="@font/javatext"
+                android:textColor="@color/PocDocIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Enter the RBC values: "></EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="25dp"
+            android:layout_gravity="center">
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:fontFamily="@font/javatext"
+                android:textColor="@color/PocDocIcon"
+                android:text="MCV:"></TextView>
+
+            <EditText
+                android:id="@+id/sugar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Enter the MCV values: "
+                android:textSize="18sp"
+                android:fontFamily="@font/javatext"
+                android:textColor="@color/PocDocIcon"
+                ></EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="25dp"
+            android:layout_gravity="center">
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:textSize="18sp"
+                android:fontFamily="@font/javatext"
+                android:textColor="@color/PocDocIcon"
+                android:layout_height="wrap_content"
+                android:text="RDW:"></TextView>
+
+            <EditText
+                android:id="@+id/acidity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:fontFamily="@font/javatext"
+                android:textColor="@color/PocDocIcon"
+                android:hint="Enter the RDW values: "></EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="25dp"
+            android:layout_gravity="center">
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:fontFamily="@font/javatext"
+                android:textColor="@color/PocDocIcon"
+                android:text="WBC:"></TextView>
+
+            <EditText
+                android:id="@+id/colestrol"
+                android:textSize="18sp"
+                android:fontFamily="@font/javatext"
+                android:textColor="@color/PocDocIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Enter the WBC values: "></EditText>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="25dp"
+            android:layout_gravity="center">
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:fontFamily="@font/javatext"
+                android:textColor="@color/PocDocIcon"
+                android:text="Platelets:"></TextView>
+
+            <EditText
+                android:id="@+id/d5"
+                android:layout_width="wrap_content"
+                android:textSize="18sp"
+                android:fontFamily="@font/javatext"
+                android:textColor="@color/PocDocIcon"
+                android:layout_height="wrap_content"
+                android:hint="Enter the PLT values: "></EditText>
+        </LinearLayout>
+
+        <View
+            android:layout_gravity="center"
+            android:layout_height="15dp"
+            android:layout_width="wrap_content" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal">
+
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+            <ImageButton
+                android:id="@+id/clear"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:src="@drawable/clear"
+                android:background="@drawable/round_corner_dp"
+                ></ImageButton>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="25dp"
+            android:layout_gravity="center">
+
+
+            <ImageButton
+
+                android:id="@+id/predict"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:src="@drawable/search"
+                android:background="@drawable/round_corner_dp">
+
+            </ImageButton>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+
+            <ImageButton
+
+                android:id="@+id/upload"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_file_upload_black_24dp"
+                android:background="@drawable/round_corner_dp">
+
+            </ImageButton>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+
+
+
+
+
+        </LinearLayout>
+        <View
+            android:layout_gravity="center"
+            android:layout_height="15dp"
+            android:layout_width="wrap_content" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.anychart.AnyChartView
+
+                android:id="@+id/any_chart_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#49479E"
+                />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>
+<!--?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/PocDocBG"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <View
+
+            android:layout_gravity="center"
+            android:layout_height="100dp"
+            android:layout_width="wrap_content" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:text="DISEASE PREDICTOR"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:textAllCaps="true"
+            android:textColor="#ffdf77"
+            android:textColorHighlight="@color/colorPrimary"
+            android:textSize="20dp"></TextView>
+        <View
+
+            android:layout_gravity="center"
+            android:layout_height="25dp"
+            android:layout_width="wrap_content" />
+
+
+        <View
+
+            android:layout_gravity="center"
+            android:layout_height="25dp"
+            android:layout_width="wrap_content" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="25dp"
+            android:textAlignment="center"
+            android:layout_gravity="center">
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RBC:"></TextView>
+
+            <EditText
+                android:id="@+id/rbc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Enter the RBC values: "></EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="25dp"
+            android:layout_gravity="center">
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MCV:"></TextView>
+
+            <EditText
+                android:id="@+id/sugar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Enter the Sugar values: "
+                ></EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="25dp"
+            android:layout_gravity="center">
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RDW:"></TextView>
+
+            <EditText
+                android:id="@+id/acidity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Enter the Acidity values: "></EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="25dp"
+            android:layout_gravity="center">
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="WBC:"></TextView>
+
+            <EditText
+                android:id="@+id/colestrol"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Enter the d5 values: "></EditText>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="25dp"
+            android:layout_gravity="center">
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Platelets:"></TextView>
+
+            <EditText
+                android:id="@+id/d5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Enter the d5 values: "></EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="25dp"
+            android:layout_gravity="center">
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="25dp"
+            android:layout_gravity="center">
+
+            <Button
+                android:id="@+id/clear"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Clear"
+                android:textColor="@color/colorPrimary"
+                android:background="@color/yellow"></Button>
+
+
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="25dp"
+            android:layout_gravity="center">
+
+
+            <Button
+
+                android:id="@+id/predict"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:text="Predict"
+                android:textColor="@color/colorAccent">
+
+            </Button>
+
+            <Button
+
+                android:id="@+id/upload"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#ff0000"
+                android:text="Upload"
+                android:textColor="#000000">
+
+            </Button>
+
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <com.anychart.AnyChartView
+
+                android:id="@+id/any_chart_view"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="#49479E"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout-->
+
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/PocDocBG">
+
+    <ImageView
+        android:layout_width="148dp"
+        android:layout_height="129dp"
+        android:src="@drawable/splash"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="134dp"
+        tools:layout_editor_absoluteY="271dp"
+        android:layout_centerInParent="true"
+        android:id="@+id/splash"></ImageView>
+
+    <TextView
+        android:id="@+id/Desc1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/splash"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="148dp"
+        android:fontFamily="@font/javatext"
+        android:text="Powered By"
+        android:textSize="15dp"></TextView>
+
+    <TextView
+        android:id="@+id/Desc2"
+        android:layout_width="129dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Desc1"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="-13dp"
+        android:fontFamily="@font/javatext"
+        android:text="HACK'O'HOLICSS"
+        android:textSize="15dp"
+        android:layout_centerInParent="true"></TextView>
+
+</RelativeLayout>

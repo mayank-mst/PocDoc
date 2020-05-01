@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/merchant_toolbar_bot"
+        android:title="MedicoBOT"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/merchant_toolbar_maps"
+        android:title="Geolocation"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/merchant_toolbar_SOS"
+        android:title="SOS"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/merchant_toolbar_logout"
+        android:title="Logout"
+        app:showAsAction="never"
+        />
+
+
+
+</menu>

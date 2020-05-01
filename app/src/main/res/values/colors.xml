@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blue">#4195FF</color>
+    <color name="blue1">#49479E</color>
+    <color name="grey">#A4A3CE</color>
+    <color name="yellow">#ffdf77</color>
+    <color name="white">#ffF</color>
+    <color name="green">#55AD0A</color>
+    <color name="PocDocBG">#F2E4CF</color>
+    <color name="PocDocIcon">#242C35</color>
+    <color name="DarkGreyIcon">#555B5E</color>
+    <color name="LightGreyIcon">#8E9090</color>
+</resources>

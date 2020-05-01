@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapsActivity">
+
+    <RelativeLayout
+        android:background="@color/PocDocBG"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:weightSum="24"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp">
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"></View>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_weight="3"
+                android:layout_width="match_parent"
+                android:layout_height="0dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:text="LOGIN"
+                    android:textColor="@color/PocDocIcon"
+                    android:textStyle="bold"
+                    android:textSize="40sp" />
+            </RelativeLayout>
+
+
+            <LinearLayout
+                android:weightSum="10"
+                android:orientation="horizontal"
+                android:layout_weight="2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp">
+                <View
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"></View>
+                <EditText
+                    android:id="@+id/email_id1"
+                    android:hint="     Email address"
+                    android:background="@drawable/shapemail"
+                    android:layout_weight="8"
+                    android:layout_width="0dp"
+                    android:inputType="textEmailAddress"
+                    android:layout_height="match_parent"
+                    android:singleLine="true"/>
+                <View
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"></View>
+            </LinearLayout>
+            <LinearLayout
+                android:weightSum="10"
+                android:orientation="horizontal"
+                android:layout_weight="2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp">
+                <View
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"></View>
+                <EditText
+                    android:id="@+id/pass_id"
+                    android:inputType="textPassword"
+                    android:hint="     Password"
+                    android:background="@drawable/shapepass"
+                    android:layout_weight="8"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:singleLine="true"/>
+                <View
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"></View>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:weightSum="12"
+                android:orientation="horizontal"
+                android:layout_weight="2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp">
+                <View
+                    android:layout_weight="7"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"></View>
+                <TextView
+                    android:layout_marginTop="5sp"
+                    android:layout_weight="4"
+                    android:textSize="16sp"
+                    android:textColor="@color/PocDocIcon"
+                    android:text="Forgot Password?"
+                    android:id="@+id/forgot_id"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent" />
+                <View
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"></View>
+            </LinearLayout>
+
+            <LinearLayout
+                android:weightSum="10"
+                android:orientation="horizontal"
+                android:layout_weight="2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp">
+                <View
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"></View>
+                <Button
+                    android:id="@+id/login_id"
+                    android:textSize="15sp"
+                    android:textColor="@color/PocDocBG"
+                    android:text="LOGIN"
+                    android:background="@color/PocDocIcon"
+                    android:layout_weight="8"
+                    android:layout_width="0dp"
+
+                    android:layout_height="match_parent" />
+                <View
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"></View>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp">
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"></View>
+            </LinearLayout>
+            <LinearLayout
+                android:weightSum="13"
+                android:orientation="horizontal"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp">
+                <View
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"></View>
+                <View
+                    android:layout_marginTop="10sp"
+                    android:layout_weight="3"
+                    android:background="@color/PocDocIcon"
+                    android:layout_width="0dp"
+                    android:layout_height="1dp"></View>
+                <TextView
+                    android:layout_gravity="center"
+
+
+                    android:text="Don't have an Account?"
+                    android:textColor="@color/PocDocIcon"
+                    android:layout_weight="5"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent" />
+                <View
+                    android:layout_marginTop="10sp"
+                    android:layout_weight="3"
+                    android:background="@color/PocDocIcon"
+                    android:layout_width="0dp"
+                    android:layout_height="1dp"></View>
+                <View
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"></View>
+            </LinearLayout>
+
+            <LinearLayout
+                android:weightSum="10"
+                android:orientation="horizontal"
+                android:layout_weight="2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp">
+                <View
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"></View>
+                <Button
+                    android:id="@+id/acc_id"
+                    android:textSize="15sp"
+                    android:textColor="@color/PocDocBG"
+                    android:background="@color/PocDocIcon"
+                    android:textAllCaps="false"
+                    android:text="Create a new Account"
+                    android:layout_weight="8"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent" />
+                <View
+
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"></View>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
