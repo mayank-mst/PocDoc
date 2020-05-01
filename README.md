@@ -18,6 +18,7 @@ A Health Care Android Application is intended to act like a personnel doctor by 
 
 
 <img src="https://user-images.githubusercontent.com/32200474/80803510-1e896280-8bd0-11ea-8567-cdd89fd781ac.png" width="250" height="400">
+
 ![first](https://user-images.githubusercontent.com/32200474/80804164-fb5fb280-8bd1-11ea-8715-98aed66fb3c7.jpeg)
 ![Screenshot_2020-05-01-17-20-30-23_b170d526b848052a88e38fcb4c71d925](https://user-images.githubusercontent.com/32200474/80804182-04e91a80-8bd2-11ea-897f-716ed9901e80.png)
 ![Screenshot_2020-05-01-17-14-27-41](https://user-images.githubusercontent.com/32200474/80804193-0ca8bf00-8bd2-11ea-84e8-0b70870df28e.png)
