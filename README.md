@@ -26,4 +26,10 @@ A Health Care Android Application is intended to act like a personnel doctor by 
 
 <img src="https://user-images.githubusercontent.com/32200474/80804225-20542580-8bd2-11ea-9643-318017f4e9df.jpeg" width="250" height="400">  <img src="https://user-images.githubusercontent.com/32200474/80804229-22b67f80-8bd2-11ea-9844-d4a05706cdc9.jpeg" width="250" height="400">
 
+## Requirements:
+1. JAVA
+2. XML
+3. SQLite
+4. TF-Learn
+5. TFLITE
 ### Video: [PocDoc](https://www.youtube.com/watch?v=GxTaozprOzs)
