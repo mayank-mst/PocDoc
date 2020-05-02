@@ -20,7 +20,7 @@ A Health Care Android Application is intended to act like a personnel doctor by 
 
 <img src="https://user-images.githubusercontent.com/32200474/80802623-75da0380-8bcd-11ea-8266-e6a79a054b59.png" width="30" height="30">**Smart notification system based on the predicted disease model**
 
-<img src="https://user-images.githubusercontent.com/32200474/80804182-04e91a80-8bd2-11ea-897f-716ed9901e80.png" width="250" height="400">
+<img src="https://user-images.githubusercontent.com/32200474/80855428-cfd6d980-8c5e-11ea-9b76-4918296f52ea.png" width="250" height="400">
 
 <img src="https://user-images.githubusercontent.com/32200474/80802628-7a062100-8bcd-11ea-9566-5ecd4bec0424.png" width="30" height="30">**Immediate Medical Assistantance and ambulance service**
 
